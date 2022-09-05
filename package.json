@@ -99,7 +99,7 @@
     "@tanstack/react-virtual": "^3.0.0-beta.14",
     "cassandra-driver": "^3.6.0",
     "connection-string-parser": "^1.0.4",
-    "fuzzysort": "^1.2.1",
+    "fuzzysort": "^2.0.1",
     "html-to-image": "^1.10.2",
     "js-beautify": "^1.14.3",
     "json-2-csv": "^3.17.1",
