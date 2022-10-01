@@ -158,10 +158,10 @@
     universal-user-agent "^6.0.0"
     uuid "^8.3.0"
 
-"@azure/data-tables@^13.1.1":
-  version "13.1.2"
-  resolved "https://registry.yarnpkg.com/@azure/data-tables/-/data-tables-13.1.2.tgz#87726fce2e954904c9be11b6353c9774d6a9830c"
-  integrity sha512-OQfnPvpip22/AL4O90OY+eDFqoUE5TXHDOesQmLDUDGPhMTuoUjQwkhp7H8aJdNtJjQ61fj7/OEjwMvRin+NGQ==
+"@azure/data-tables@^13.2.0":
+  version "13.2.0"
+  resolved "https://registry.yarnpkg.com/@azure/data-tables/-/data-tables-13.2.0.tgz#213bde2f728921be950bc08f54e282a9b57652eb"
+  integrity sha512-o16WVzcCYuZRh8M43R+twJyB9fZnhG2Y4ZfGmV2jX3HgV7TSBIXysuwgVYkdqYd3cyBVzpHW3pLY7IasOjvO7w==
   dependencies:
     "@azure/core-auth" "^1.3.0"
     "@azure/core-client" "^1.0.0"
