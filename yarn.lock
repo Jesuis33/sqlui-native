@@ -5059,10 +5059,10 @@ dedent@^0.7.0:
   resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
   integrity sha512-Q6fKUPqnAHAyhiUgFU7BUzLiv0kd8saH9al7tnu5Q/okj6dnupxyTgFIBjVzJATdfIAm9NAsvXNzjaKa+bxVyA==
 
-deeks@2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/deeks/-/deeks-2.5.1.tgz#c4e18a00cac3f8ff95a306463db8f533c879f436"
-  integrity sha512-fqrBeUz7f1UqaXDRzVB5RG2EfPk15HJRrb2pMZj8mLlSTtz4tRPsK5leFOskoHFPuyZ6+7aRM9j657fvXLkJ7Q==
+deeks@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/deeks/-/deeks-2.6.1.tgz#ee852ab76d5b4ca4bcfda34ba55660c40b92f505"
+  integrity sha512-PZrpz5xLo2JPZa3L+kqMMMdZU5pRwMysTM1xd6pLhNtgQw4Iq3wbF2QWaQTVh+HRq9Yg4rcjDIJ+scfGLxmsjQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -5286,10 +5286,10 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-doc-path@3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/doc-path/-/doc-path-3.0.2.tgz#a7df9d58eadce28a2ddd4eda5aa392628fd75b6d"
-  integrity sha512-VRlA2OKSjTbHWj6wmSanxJ338fE/YN8pqmZ0FIWK5JWkIJMFRc4KmD35JtOrnjvVG0WrzOtDDNHx1lN1tkb+lA==
+doc-path@3.0.7:
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/doc-path/-/doc-path-3.0.7.tgz#68e4432172c084ccb5e78403de291a0b95086848"
+  integrity sha512-w+3BuczDBuq7JtIs+ZrGaoCAlMYTeV15+gBqx8JPvBd30pT8OX/wluSRwoGUOsUFwLPB/GeDVf9ZquI69bHv4w==
 
 doctrine@^2.1.0:
   version "2.1.0"
@@ -8276,13 +8276,13 @@ jsesc@~0.5.0:
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
   integrity sha512-uZz5UnB7u4T9LvwmFqXii7pZSouaRPorGs5who1Ip7VO0wxanFvBL7GkM6dTHlgX+jhBApRetaWpnDabOeTcnA==
 
-json-2-csv@^3.17.1:
-  version "3.17.1"
-  resolved "https://registry.yarnpkg.com/json-2-csv/-/json-2-csv-3.17.1.tgz#7e0b2497f47907dad68ec1d5e903f237fa47deb3"
-  integrity sha512-i6QynVy42GGMgY8fYde0mp6nYteptvk8oJsphOLiT3CITzw7NBBAiRwHV35kDOBii/elDQe1HCWLqaBPJ3istQ==
+json-2-csv@^3.19.0:
+  version "3.19.0"
+  resolved "https://registry.yarnpkg.com/json-2-csv/-/json-2-csv-3.19.0.tgz#43e4c89b24f47d011f88b9695c04f154b669498d"
+  integrity sha512-l8keHM/wfEgYnO9rLFHoWNfq4sAI9r5OJXzMxblLb1Pn/dmMcaNK2M0kJ7DjC9ZJKHkkTj8Bbj6aBsqJX/EUFA==
   dependencies:
-    deeks "2.5.1"
-    doc-path "3.0.2"
+    deeks "2.6.1"
+    doc-path "3.0.7"
 
 json-buffer@3.0.0:
   version "3.0.0"
