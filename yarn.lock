@@ -2072,11 +2072,6 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.5.tgz#db5a11bf66bdab39569719555b0f76e138d7bd64"
   integrity sha512-9X2obfABZuDVLCgPK9aX0a/x4jaOEweTTWE2+9sr0Qqqevj2Uv5XorvusThmc9XGYpS9yI+fhh8RTafBtGposw==
 
-"@reach/observe-rect@^1.1.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@reach/observe-rect/-/observe-rect-1.2.0.tgz#d7a6013b8aafcc64c778a0ccb83355a11204d3b2"
-  integrity sha512-Ba7HmkFgfQxZqqaeIWWkNK0rEhpxVQHIoVyW1YDSkGsGIXzcaW4deC8B0pZrNSSyLTdIk7y+5olKt5+g0GmFIQ==
-
 "@redis/bloom@1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@redis/bloom/-/bloom-1.0.2.tgz#42b82ec399a92db05e29fffcdfd9235a5fc15cdf"
@@ -2297,20 +2292,17 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tanstack/react-virtual@^3.0.0-beta.14":
-  version "3.0.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.0.0-beta.14.tgz#4765bd72b3b94d098a6edb1a36f51f1819cc6fd9"
-  integrity sha512-khIS0ZjRaAxLjZx2VLTde4P8BuaQ/8dxoGdFk+vFFkZdJyXMRSHXLCp8ZnVshyMT/t6SovN+4BMfNZnV1jb1Yg==
+"@tanstack/react-virtual@^3.0.0-beta.52":
+  version "3.0.0-beta.52"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.0.0-beta.52.tgz#cbc8e4e6dfb664029bc0062915618758fca95783"
+  integrity sha512-8CahZpH2CV3gRj02MVxOfw561n0yHAuW5D8YW8YyZ8GRZTKnbF4boijc+gy8jn8hiHMTvS5AQvdjf4RkOIl8Yw==
   dependencies:
-    "@reach/observe-rect" "^1.1.0"
-    "@tanstack/virtual-core" "3.0.0-beta.14"
+    "@tanstack/virtual-core" "3.0.0-beta.52"
 
-"@tanstack/virtual-core@3.0.0-beta.14":
-  version "3.0.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.0.0-beta.14.tgz#5be33feab2a369061eef4f8f82467b7c7342564e"
-  integrity sha512-xtt1J6Z1v5BXv2s23DAaVdma6LsJJmuI8bj87xdWkMnKPE/jlW5zGGN/PHuZrCz/v8QPbjbru0oxq/uBTtXSXA==
-  dependencies:
-    "@reach/observe-rect" "^1.1.0"
+"@tanstack/virtual-core@3.0.0-beta.52":
+  version "3.0.0-beta.52"
+  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.0.0-beta.52.tgz#5375bef6f14926b75e77bd2b0060e8606a4dc881"
+  integrity sha512-70208CgTPIf6tonbl2wmpGpeZ9geflhZKMMPddBG2dbF5XUkmuskdWDXG/H/x/Uv/K3bphl/FpbClts5GfdedA==
 
 "@testing-library/dom@^8.0.0":
   version "8.16.0"
